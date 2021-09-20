@@ -1,6 +1,5 @@
-//Solve Me First
+//โจทย์ให้ทำฟังก์ชัน solveMefirst รับค่า 2 ตัวคือ a และ b
 function solveMeFirst(a, b) {
-  //โจทย์ให้ทำฟังก์ชัน solveMefirst รับค่า 2 ตัวคือ a และ b
   sum = a + b; // สร้างตัวแปรชื่อ sum มีค่าเท่ากับ a+b และให้
   return sum; // ให้ return sum หรือ a+b นั่นละออกมา
 }
